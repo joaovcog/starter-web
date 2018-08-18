@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    João Victor   joao@email.com
 
 # THANKS
 
